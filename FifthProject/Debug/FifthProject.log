@@ -1,0 +1,22 @@
+﻿  3DTexture.cpp
+  camera.cpp
+C:\Users\ahamo\OneDrive\Desktop\University\Restaurant in one class\OpenGL\FifthProject\3DTexture.cpp(61,16): warning C4996: 'strlwr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strlwr. See online help for details.
+C:\Users\ahamo\OneDrive\Desktop\University\Restaurant in one class\OpenGL\FifthProject\3DTexture.cpp(65,17): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ahamo\OneDrive\Desktop\University\Restaurant in one class\OpenGL\FifthProject\3DTexture.cpp(77,16): warning C4996: 'strlwr': The POSIX name for this item is deprecated. Instead, use the ISO C and C++ conformant name: _strlwr. See online help for details.
+C:\Users\ahamo\OneDrive\Desktop\University\Restaurant in one class\OpenGL\FifthProject\3DTexture.cpp(142,15): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Chair.cpp
+  Colba.cpp
+  Model_3DS.cpp
+C:\Users\ahamo\OneDrive\Desktop\University\Restaurant in one class\OpenGL\FifthProject\Model_3DS.cpp(160,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ahamo\OneDrive\Desktop\University\Restaurant in one class\OpenGL\FifthProject\Model_3DS.cpp(182,10): warning C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ahamo\OneDrive\Desktop\University\Restaurant in one class\OpenGL\FifthProject\Model_3DS.cpp(212,11): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Users\ahamo\OneDrive\Desktop\University\Restaurant in one class\OpenGL\FifthProject\Model_3DS.cpp(891,2): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Restaurant.cpp
+  Source.cpp
+C:\Users\ahamo\OneDrive\Desktop\University\Restaurant in one class\OpenGL\FifthProject\Source.cpp(411,3): warning C4838: conversion from 'int' to 'BYTE' requires a narrowing conversion
+  Table.cpp
+  texture.cpp
+C:\Users\ahamo\OneDrive\Desktop\University\Restaurant in one class\OpenGL\FifthProject\texture.cpp(43,19): warning C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  Generating Code...
+  LINK : C:\Users\ahamo\OneDrive\Desktop\University\Restaurant in one class\OpenGL\Debug\FifthProject.exe not found or not built by the last incremental link; performing full link
+  FifthProject.vcxproj -> C:\Users\ahamo\OneDrive\Desktop\University\Restaurant in one class\OpenGL\Debug\FifthProject.exe
